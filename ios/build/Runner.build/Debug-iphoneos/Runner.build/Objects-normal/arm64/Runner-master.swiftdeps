@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "07e0f0624bbd4a96e8598a5c22c152ec"
+build_time: [1621683415, 903881000]
+inputs:
+  "/Users/rohan.r/Documents/Flutter Apps/gmc/ios/Runner/AppDelegate.swift": [1615014552, 292952505]

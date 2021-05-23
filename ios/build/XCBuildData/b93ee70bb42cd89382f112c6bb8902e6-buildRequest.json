@@ -1,0 +1,90 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759c184ad8b3c49a0c098ef639132f1afe4"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759d57b8bce60a0f11113f4cff532db68d3"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759a408a4c1f668e62161cdeba76f57d50c"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759d367f2c9826e0c44989d081ca3d0f4ca"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759c075cc473fa5680b867d51f1363214ff"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b7599da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759d3c8dfff2c580c352f83d3850ad17775"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759718890dfdac589615663a02d43d9af3e"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759f10882e1684b8a3dfdec597bc0a47af3"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759cb446d83a55866e5ca0338d00b7158fb"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b7599840e8244cb75f43b3efe8cd6dec5ec5"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b7597f74324bfc5c78140e34d510e26e00c1"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759d7de55694c750fe04d3bc1517f91a481"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759fdca3e568c0d4fe17f0e20bbe764df0d"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b7596836e78755c7a49cbac94d6710bb39cc"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b759812cb744006e837a06a1ec7fcf8ca389"
+    },
+    {
+      "guid" : "30e02340f3c386f9a9089ab05153b7590062393f91a1d2d94e3e5ed3a5aa5da9"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/rohan.r/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/rohan.r/Library/Developer/Xcode/DerivedData/Pods-bkxoddgpzitlftexqnvosvarktcz/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/rohan.r/Library/Developer/Xcode/DerivedData/Pods-bkxoddgpzitlftexqnvosvarktcz/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
